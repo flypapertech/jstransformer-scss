@@ -3,7 +3,7 @@
     "extend-shallow": "^3.0.2",
     "sass": "^1.23.7"
   },
-  "name": "jstransformer-scss",
+  "name": "@flypapertech/jstransformer-scss",
   "version": "1.0.0",
   "description": "SCSS support for JSTransformers",
   "keywords": [
